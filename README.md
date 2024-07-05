@@ -4,6 +4,6 @@
 The ER diagram and the sql files along to intialise and create the database is located in the Database folder.
 The Interface Files for various user along with the guide is present in Interface folder
 
-#Data Population:
+DATA POPULATION:
 Data population was achieved via an online bulk data generator i.e. https://www.mockaroo.com The data was carefully generated in accordance with the integrity constraints.
 
